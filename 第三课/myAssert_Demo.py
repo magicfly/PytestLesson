@@ -23,7 +23,7 @@ def myAssert_compare():
     assert 'a' in "abc"
     assert (3 == 3) is True
 
-def myAssert_compare_two():
+def myAssert_compare_one():
     """@brief test_compare"""
     assert 1 > 3
 
